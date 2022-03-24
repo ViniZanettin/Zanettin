@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    background-color: rgb(5, 0, 0);
+    flex-direction: column;
+    text-align: center;
+    }
+  
+  
+  .flex-container > div {
+    background-color: rgb(147, 149, 37);
+    margin: 20px;
+    padding: 10px;
+    font-size: 30px;
+  }
+
+  .container {
+      flex-direction: column;
+  }
+.menuzito{
+  display: inline;
+  font-size: 20px;
+  padding: 10px;
+  margin: 30px;
+  border-width: 5px;
+  border-color: brown;
+}
+body{
+   font-size: 20px;
+   background-color: rgb(233, 116, 20);
+}
+.menu{
+  text-align: center;
+}
